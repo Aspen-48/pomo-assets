@@ -1,1 +1,1 @@
-These files are assets for a pomodoro timer Codepen.io project.
+Assets for pomodoro timer Codepen.io project.
